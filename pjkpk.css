@@ -1,0 +1,437 @@
+.paper_data_aw41{
+    position: absolute;
+    top: 6%;
+    left: 23%;
+  }
+   
+  .datatext_aw41{
+    position: absolute;
+    top: 10%;
+    left: 32%;
+    font-family:'Bad Script';
+    font-size: 35px;
+  }
+  
+  .paper_text_aw41{
+    position: absolute;
+    top: 21%;
+    left: 7%;
+    width: 65%;
+    height: 70%;
+  }
+  
+  .text_aw41{
+    position: absolute;
+    font-family:'Bad Script';
+    font-size: 30px;
+    line-height: 49px;
+    top: 23%;
+    left: 11%;
+    width:58%;
+    height: 26%;
+  }
+  
+  .back_aw1941{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .paper_back_aw41{
+    position: relative;
+  }
+  
+  .arrowback_aw41{
+    position: absolute;
+    left: 5%;
+  }
+  
+  .forward_aw1941{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .paper_forward_aw41{
+    position: relative;
+  }
+  
+  .arrowforward_aw41{
+    position: absolute;
+    right: 5%;
+  }
+  
+  
+  @media only screen and (max-width : 1920px) {
+    .paper_data_aw41{
+      top: 5%;
+      left: 15%;
+      width: 36%;
+    }
+    
+    .datatext_aw41 {
+      top: 9%;
+      left: 22.5%;
+      font-size: 40px;
+    }
+    
+    .paper_text_aw41{
+      top: 21%;
+      height: 70%;
+      width: 75%;
+    }
+    
+    .text_aw41{
+      font-size: 32px;
+      line-height: 49px;
+      top: 26%;
+      left: 10%;
+      width: 70%;
+    }
+  }
+  
+  @media only screen and (max-width : 1440px){
+    .paper_data_aw41{
+      top: 5%;
+      left: 23%;
+      width: 33%;
+    }
+    
+    .datatext_aw41{
+      top: 8.5%;
+      left: 30.5%;
+      font-size: 32px;
+    }
+    
+    .paper_text_aw41{
+      top: 19%;
+      height: 67%;
+      width: 75%;
+    }
+    
+    .text_aw41{
+      font-size: 30px;
+      line-height: 49px;
+      top: 24%;
+      left: 10%;
+      width: 70%;
+    }
+  }
+  
+  @media only screen and (max-width : 1280px) {
+    .paper_data_aw41{
+      top: 5%;
+      left: 15%;
+      width: 40%;
+    }
+    
+    .datatext_aw41{
+      top: 8.5%;
+      left: 24%;
+      font-size: 34px;
+    }
+    
+    .paper_text_aw41{
+      top: 17%;
+      height: 73%;
+      width: 77%;
+    }
+    
+    .text_aw41{
+      font-size: 30px;
+      line-height: 45px;
+      top: 22%;
+      left: 11%;
+      width: 71%;
+    }
+  }
+  
+  @media only screen and (max-width : 960px) {
+    .paper_data_aw41{
+      top: 5%;
+      left: 15%;
+      width: 40%;
+    }
+    
+    .datatext_aw41{
+      top: 8%;
+      left: 23%;
+      font-size: 30px;
+    }
+    
+    .paper_text_aw41{
+      top: 17%;
+      height: 73%;
+      width: 77%;
+    }
+    
+    .text_aw41{
+      font-size: 24px;
+      line-height: 40px;
+      top: 20%;
+      left: 10%;
+      width: 71%;
+    }
+  }
+  
+  @media only screen and (max-width : 800px){
+    
+    .paper_data_aw41{
+      top: 7%;
+      left: 17%;
+      width: 45%;
+    }
+    
+    .datatext_aw41{
+      top: 10%;
+      left: 26%;
+      font-size: 26px;
+    }
+    
+    .paper_text_aw41{
+      top: 17%;
+      height: 71%;
+      width: 75%;
+    }
+    
+    .text_aw41{
+      font-size: 20px;
+      line-height: 39px;
+      top: 20%;
+      left: 11%;
+      width: 67%;
+    }  
+  }
+  
+  @media only screen and (max-width : 660px){
+    
+    .paper_data_aw41{
+      top: 7%;
+      left: 15%;
+      width: 50%;
+    }
+    
+    .datatext_aw41{
+      top: 10%;
+      left: 26%;
+      font-size: 22px;
+    }
+    
+    .paper_text_aw41{
+      top: 19%;
+      height: 70%;
+      width: 75%;
+    }
+    
+    .text_aw41{
+      font-size: 20px;
+      line-height: 30px;
+      top: 22%;
+      left: 11%;
+      width: 65%;
+    }
+  }
+  
+  @media only screen and (max-width : 480px){
+    
+    .paper_data_aw41{
+      top: 8%;
+      left: 13%;
+      height: 9%;
+      width: 50%;
+    }
+    
+    .datatext_aw41{
+      top: 11%;
+      left: 21%;
+      font-size: 20px;
+    }
+    
+    .paper_text_aw41{
+      top: 19%;
+      height: 70%;
+      width: 77%;
+    }
+    
+    .text_aw41{
+      font-size: 18px;
+      line-height: 27px;
+      top: 22%;
+      left: 10%;
+      width: 73%;
+    }
+  
+    .back_aw1941{
+      height: 8%;
+    }
+  
+    .forward_aw1941{
+      height: 8%;
+    }
+  }
+  
+  @media only screen and (max-width : 320px){
+    
+    .paper_data_aw41{
+      top: 13%;
+      left: 5%;
+      height: 8%;
+      width: 59%;
+    }
+    
+    .datatext_aw41{
+      top: 16%;
+      left: 17%;
+      font-size: 14px;
+    }
+    
+    .paper_text_aw41{
+      top: 21%;
+      left: 5%;
+      height: 71%;
+      width: 85%;
+    }
+    
+    .text_aw41{
+      font-size: 15px;
+      line-height: 22px;
+      top: 24%;
+      left: 10%;
+      width: 75%;
+    }
+  
+    .back_aw1941{
+      height: 7%;
+    }
+  
+    .forward_aw1941{
+      height: 7%;
+    }
+  
+    .menu_btn_diary{
+      top: 1%;
+      right: 15%;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+  /*страница лето-осень*/
+.page{
+    background-image: url(img/background_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    
+}
+.data{
+  position: absolute;
+}
+/*фон лето1942*/
+.datafon{
+  position: absolute;
+ 
+ }
+ 
+ 
+ /*текст лето 1942*/
+ .Datatext{
+   position: absolute;
+font-family: Bad Script;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 79px;
+
+ }
+
+
+ /*фон текст 1*/
+ .textfon1{
+   height: 90%;
+ 
+ }
+
+/*текст 1*/
+.texxt1{
+  position: absolute;
+  font-family: Bad Script;
+  font-size: 23px;
+  line-height: normal;
+  top: 20%;
+  left: 7%;
+  Width:62%;
+  Height: 26%;
+}
+
+
+/*фон текст 2*/
+.textfon2{
+ 
+
+}
+
+/*текст 2*/
+.texxt2{
+ position: absolute;
+ font-family: Bad Script;
+ font-size: 23px;
+ line-height: 42px;;
+ top: 58%;
+ left: 17%;
+ Width:64%;
+ Height: 20%;
+}
+
+ 
+ /*стрелка вперёд*/
+ .arrowforward {
+   position: absolute;
+   bottom: 0%;
+  right: 10%;
+ }
+ 
+ /*блок вперёд*/
+ .forward{
+   position: absolute;
+   right: 0;
+   bottom: 0;
+ }
+ 
+ 
+ /* блок назад*/
+ .back{
+   position: absolute;
+   bottom: 0;
+   left: 0;
+ }
+ 
+ /*фон назад*/
+ .backfon{
+   position: relative;
+ 
+ }
+ 
+ /*стрелка назад*/
+ .arrowback{
+   position: absolute;
+   left: 0%;
+ }
+ 
+ /*фон вперёд*/
+ .forwardfon{
+   position: relative;
+ }
+ 
+ .listopad{
+  margin-left: 3%;
+height: 100vh;
+}
